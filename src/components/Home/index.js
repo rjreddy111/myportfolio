@@ -10,16 +10,23 @@ const initalProjectList = [
   {
     id: 1,
     projectName: 'Todos List',
-    projectLink:
-      'https://2264091154-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LAFAFKB0K7agCFRGoeS%2F-LPlOxKC2OuWN0Tq67DQ%2F-LPlOs1L1y7dFaV0nTgq%2Ftodo-app-final.gif?alt=media&token=67764dd0-91a0-40b4-9b89-97ba2c04fcd8',
-    projectDescription: 'User can add list which he want to track',
+    projectLink: 'http://reddy43todolist.ccbp.tech',
+    projectDescription:
+      'User can add list of todos which he/she like to do and has option to strike and delete the todos whichever user has finished',
   },
   {
     id: 2,
     projectName: 'Wikipedia',
-    projectLink:
-      'https://blog.openreplay.com/images/building-an-encyclopedia-with-react-and-wikipedia-search-api/images/img2.png',
-    projectDescription: 'Wikipedia search Engine similar to google',
+    projectLink: 'http://reddywiki43.ccbp.tech',
+    projectDescription:
+      'It is like search engine, user needs to enter data which needs to be searched and the results will be displayed',
+  },
+  {
+    id: 3,
+    projectName: 'nxtWatch',
+    projectLink: 'http://rahul43nxtwatch.ccbp.tech',
+    projectDescription:
+      'This is similar to Netflix, user can stream the videos and save the videos and saved videos will appear in saved section of navigation bar for login username-rahul and password - rahul@2021',
   },
 ]
 

@@ -10,9 +10,10 @@ const Projects = props => {
       <div>
         <h1>{projectName}</h1>
         <p>{projectDescription}</p>
-        <button type="button">View Project</button>
+        <a href={projectLink} target="_new">
+          <button type="button">View Project</button>{' '}
+        </a>
       </div>
-      <img src={projectLink} alt="projectImage" className="projectImage" />
     </li>
   )
 }
